@@ -1,0 +1,15 @@
+.label {
+  margin-bottom: 15px;
+}
+
+.input {
+  margin-left: 15px;
+  border-radius: 5px;
+  background-color: #f1f5b4;
+  border: 1px solid black;
+}
+
+.input:hover,
+.input:focus {
+  border: 1px solid red;
+}
